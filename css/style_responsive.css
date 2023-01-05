@@ -179,9 +179,11 @@
         color: #0c66ff;
         transition: .8s;
     }
-
+    .maps{
+        overflow: hidden;
+    }
     iframe{
-        margin: 2% 0% 2% 2%;
+        margin: 20px
         width: auto;
         height: auto;
     }
