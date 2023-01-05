@@ -115,7 +115,7 @@ nav ul li a:hover{
 .feature p {
     font-size: 22px;
     color: #3b506c;
-    text-align: justify;
+    text-align: right;
     font-weight: 500;
 }
 
@@ -250,7 +250,7 @@ textarea{
     width: 103.6%;
 }
 textarea::placeholder{
-    padding-top: 10px;
+    padding-top: 08px;
     color: #3b506c;
 }
 
@@ -269,7 +269,8 @@ textarea::placeholder{
     transition: .8s;
 }
 
-.maps{
+iframe{
     margin: 2% 0% 2% 2%;
-    border: 3px solid #fff;
+    width: 400px;
+    height: 300px;
 }
