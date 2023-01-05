@@ -1,2 +1,1 @@
 # Quick Rental
-# quick-rental
